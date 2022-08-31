@@ -1,15 +1,15 @@
 {
-    "name": "test008",
-    "theme": "syntax",
-    "version": "1.4.0",
-    "description": "ทดสอบ ใส่อะไรก้ได้",
-    "keywords": [
-      "syntax",
-      "theme"
-    ],
-    "repository": "https://github.com/g2esystem/jenny",
-    "license": "MIT",
-    "engines": {
-      "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "jenny",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/g2esystem/jenny",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
   }
+}
